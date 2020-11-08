@@ -1,2 +1,2 @@
-# project-21-bullets-and-walls
-just enjoy !!!
+# p5.play-boilerplate
+Boiler plate for p5.play
